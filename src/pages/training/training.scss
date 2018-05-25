@@ -1,0 +1,28 @@
+page-training {
+    ion-card, .card-md, .card.ios{
+        min-height: 200px;
+        background: initial;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+
+        .title{
+            position: absolute;
+            top: 36%;
+            left: 0;
+            font-size: 2em;
+            width: 100%;
+            font-weight: 700;
+            color: #fff;
+        }
+
+        .subtitle{
+            font-size: 1em;
+            position: absolute;
+            top: 52%;
+            left: 0;
+            width: 100%;
+            color: #fff;
+        }
+    }
+}

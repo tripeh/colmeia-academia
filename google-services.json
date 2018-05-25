@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "794786103299",
+    "firebase_url": "https://akademia-825d7.firebaseio.com",
+    "project_id": "akademia-825d7",
+    "storage_bucket": "akademia-825d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794786103299:android:f5bf10e1f7914e10",
+        "android_client_info": {
+          "package_name": "com.akademia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794786103299-bofpjp4b7lar4bkap377h4pscljqb38f.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "794786103299-bofpjp4b7lar4bkap377h4pscljqb38f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9yTb2juGjwQxsrNFFeCBm4TqGjTyK8nI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
